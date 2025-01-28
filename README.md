@@ -1,16 +1,9 @@
-# compendiodungeousanddragons5e
+# Compendium D&D
 
-A new Flutter project.
+Este é um projeto de aplicativo para apresentar uma lista de monstros e criaturas do RPG Dungeous and Dragons.
+Para listar o compêndio de monstros e criaturas do D&D o app se conecta D&D 5e API (https://www.dnd5eapi.co).
+O app também dá a opção de criar monstros enviando e salvando as informações através de uma API própria.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Em fase de desenvolvimento.
